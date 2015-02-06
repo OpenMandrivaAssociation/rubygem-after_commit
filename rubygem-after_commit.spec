@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.0.8
-Release:    %mkrel 1
+Release:    2
 Summary:    Callback for ActiveRecord
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby License
