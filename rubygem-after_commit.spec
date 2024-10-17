@@ -6,7 +6,7 @@ Release:    2
 Summary:    Callback for ActiveRecord
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby License
-URL:        http://github.com/freelancing-god/after_commit
+URL:        https://github.com/freelancing-god/after_commit
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
